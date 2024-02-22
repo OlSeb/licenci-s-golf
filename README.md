@@ -1,0 +1,1 @@
+# licenci-s-golf
