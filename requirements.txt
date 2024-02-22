@@ -1,11 +1,11 @@
 # requirements.txt
 
-pandas == 1.5.3
+pandas
 
 streamlit
 
 geopandas
 
-plotly.graph_objects
+plotly
 
 json
